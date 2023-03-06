@@ -21,8 +21,8 @@
 //                     		 |  1   |  2   |   3  |  | ENTER | RAISE|  ALT  |
 			bindings = <
 &kp N6   &kp N1 &kp N2 &kp N3 &kp N4   &kp N5                      &kp N6 &kp N7 &kp N8    &kp N9  &kp N0   &kp GRAVE
-&kp N7   &kp Q  &kp W  &kp E  &kp R    &kp T                       &kp Y  &kp U  &kp I     &kp O   &kp P    &kp MINUS
-&kp N8   &kp A  &kp S  &kp D  &kp F    &kp G                       &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT
+&kp N7   &kp Q  &kp UP  &kp E  &kp R    &kp T                       &kp Y  &kp U  &kp I     &kp O   &kp P    &kp MINUS
+&kp N8   &kp LEFT  &kp DOWN  &kp RIGHT  &kp F    &kp G                       &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT
 &kp N9   &kp Z  &kp X  &kp C  &kp V    &kp B    &kp N4  &kp RBKT  &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
                    			  &kp N1   &kp N2   &kp N3  &kp RET   &mo 2  &kp RALT
 			>;
